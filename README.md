@@ -65,9 +65,9 @@ Before importing this lab, you need to have the following:
     *   Use `ping` and `traceroute` between end devices to verify connectivity.
     *   Use CLI commands like `show ip route`, `show ip ospf neighbor`  on routers and switches to verify protocol operation.
 
-5- ** Mikrotik Login ** 
-   * user :  admin 
-   * pass :  ccna  
+ 4.  **Mikrotik Login:**
+    * user :  admin 
+    * pass :  ccna  
 
 
 
