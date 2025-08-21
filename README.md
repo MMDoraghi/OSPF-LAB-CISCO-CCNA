@@ -1,12 +1,12 @@
 # [Open Shortest Path First TEST] - Network Simulation Lab
 
-A comprehensive network design and simulation built and tested with PnetLab. This lab demonstrates [briefly describe the goal, e.g., multi-area OSPF routing, enterprise network design, or BGP peering].
+A network Design For Testing OSPF with single area For CCNA 
 
 ![Network Topology Diagram](https://github.com/MMDoraghi/OSPF-LAB-CISCO-CCNA/blob/main/OSPF%20LAB.jpg) 
 
 ## 📋 Lab Overview
 
-This lab consists of a network designed to simulate a [real-world scenario, e.g., small corporate network, data center interconnect]. The topology includes:
+This lab consists of a network  topology includes:
 
 *   **Routers:** [10  ]
 *   **Switches:** [10  ]
@@ -35,13 +35,13 @@ Before importing this lab, you need to have the following:
 ### Installation & Import
 
 1.  **Download the Lab File:**
-    *   Clone this repository or download the `[[OSPF_TEST.zip](https://github.com/MMDoraghi/OSPF-LAB-CISCO-CCNA/blob/main/OSPF%20Testing.unl)]` file.
+    *   Clone this repository or download the [[OSPF_TEST.unl](https://github.com/MMDoraghi/OSPF-LAB-CISCO-CCNA/blob/main/OSPF%20Testing.unl)] file.
 
 2.  **Import into PnetLab:**
     *   Log in to your PnetLab dashboard.
     *   Navigate to **My Labs**.
     *   Click the **Import** button.
-    *   Browse and select the `[OSPF_TEST.unl]` file you downloaded.
+    *   Browse and select the [OSPF_TEST.unl](https://github.com/MMDoraghi/OSPF-LAB-CISCO-CCNA/blob/main/OSPF%20Testing.unl) file you downloaded.
     *   Click **OK** to begin the import process.
 
 3.  **Wait for Initialization:**
