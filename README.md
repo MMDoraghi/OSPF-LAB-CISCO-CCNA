@@ -2,7 +2,7 @@
 
 A comprehensive network design and simulation built and tested with PnetLab. This lab demonstrates [briefly describe the goal, e.g., multi-area OSPF routing, enterprise network design, or BGP peering].
 
-![Network Topology Diagram]([images/topology-diagram.png](https://media.licdn.com/dms/image/v2/D4D22AQHTAUvjX3rm9g/feedshare-shrink_2048_1536/B4DZjNmHiOHwAw-/0/1755795980878?e=1758758400&v=beta&t=cItp2UdDMdCUU48EHszrgSRmhn5xDfg0_PMxUlJPSeU)) <!-- Highly recommended! -->
+![Network Topology Diagram]() 
 
 ## 📋 Lab Overview
 
