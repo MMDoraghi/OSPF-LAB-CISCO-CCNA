@@ -2,7 +2,7 @@
 
 A comprehensive network design and simulation built and tested with PnetLab. This lab demonstrates [briefly describe the goal, e.g., multi-area OSPF routing, enterprise network design, or BGP peering].
 
-![Network Topology Diagram](images/topology-diagram.png) <!-- Highly recommended! -->
+![Network Topology Diagram]([images/topology-diagram.png](https://media.licdn.com/dms/image/v2/D4D22AQHTAUvjX3rm9g/feedshare-shrink_2048_1536/B4DZjNmHiOHwAw-/0/1755795980878?e=1758758400&v=beta&t=cItp2UdDMdCUU48EHszrgSRmhn5xDfg0_PMxUlJPSeU)) <!-- Highly recommended! -->
 
 ## 📋 Lab Overview
 
@@ -27,9 +27,9 @@ Before importing this lab, you need to have the following:
 
 ### Download Link 
 
-   * ` x86_64_crb_linux-adventerprisek9-ms.bin ` (https://download.netlabplus.com/images/Cisco/IOL/IOS%20XE%2017/)  
-   * ` [x86_64_crb_linux_l2-adventerprisek9-ms.bin](https://download.netlabplus.com/images/Cisco/IOL/IOS%20XE%2017/) ` 
-   * ` [Mikrotik](https://download.mikrotik.com/routeros/7.19.3/chr-7.19.3.img.zip) ` 
+   *  [x86_64_crb_linux-adventerprisek9-ms.bin](https://download.netlabplus.com/images/Cisco/IOL/IOS%20XE%2017/)  
+   *  [x86_64_crb_linux_l2-adventerprisek9-ms.bin](https://download.netlabplus.com/images/Cisco/IOL/IOS%20XE%2017/) 
+   *  [Mikrotik](https://download.mikrotik.com/routeros/7.19.3/chr-7.19.3.img.zip)
 
 
 ### Installation & Import
