@@ -1,4 +1,4 @@
-# [Your Project Name] - Network Simulation Lab
+# [Open Shortest Path First TEST] - Network Simulation Lab
 
 A comprehensive network design and simulation built and tested with PnetLab. This lab demonstrates [briefly describe the goal, e.g., multi-area OSPF routing, enterprise network design, or BGP peering].
 
@@ -23,18 +23,25 @@ These instructions will get a copy of the lab running on your local PnetLab inst
 Before importing this lab, you need to have the following:
 *   **PnetLab** installed and running on your system or server.
     *   [Download PnetLab](https://www.pnetlab.com/)
-*   Ensure you have the appropriate **QEMU images** for the nodes used in this lab (e.g., `x86_64_crb_linux-adventerprisek9-ms.bin`, `x86_64_crb_linux_l2-adventerprisek9-ms.bin`, `linux`) already installed in your PnetLab.
+*   Ensure you have the appropriate **QEMU images** for the nodes used in this lab (e.g., `x86_64_crb_linux-adventerprisek9-ms.bin`, `x86_64_crb_linux_l2-adventerprisek9-ms.bin`, `Mikortik 7.19`) already installed in your PnetLab.
+
+### Download Link 
+
+   * `[x86_64_crb_linux-adventerprisek9-ms.bin](https://download.netlabplus.com/images/Cisco/IOL/IOS%20XE%2017/)` 
+   * `[x86_64_crb_linux_l2-adventerprisek9-ms.bin](https://download.netlabplus.com/images/Cisco/IOL/IOS%20XE%2017/) ` 
+   * `[Mikrotik](https://download.mikrotik.com/routeros/7.19.3/chr-7.19.3.img.zip))` 
+
 
 ### Installation & Import
 
 1.  **Download the Lab File:**
-    *   Clone this repository or download the `[your-lab-filename.zip]` file.
+    *   Clone this repository or download the `[[OSPF_TEST.zip](https://github.com/MMDoraghi/OSPF-LAB-CISCO-CCNA/blob/main/OSPF%20Testing.unl)]` file.
 
 2.  **Import into PnetLab:**
     *   Log in to your PnetLab dashboard.
     *   Navigate to **My Labs**.
     *   Click the **Import** button.
-    *   Browse and select the `[your-lab-filename.zip]` file you downloaded.
+    *   Browse and select the `[OSPF_TEST.unl]` file you downloaded.
     *   Click **OK** to begin the import process.
 
 3.  **Wait for Initialization:**
@@ -56,6 +63,13 @@ Before importing this lab, you need to have the following:
 
 4.  **Validation & Testing:**
     *   Use `ping` and `traceroute` between end devices to verify connectivity.
-    *   Use CLI commands like `show ip route`, `show ip ospf neighbor`, and `show vlan brief` on routers and switches to verify protocol operation.
+    *   Use CLI commands like `show ip route`, `show ip ospf neighbor`  on routers and switches to verify protocol operation.
 
-## 📁 Project Structure
+5- ** Mikrotik Login ** 
+   * user 'admin 
+   * pass : ' ccna ' 
+
+
+
+
+
