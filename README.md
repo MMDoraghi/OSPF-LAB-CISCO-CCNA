@@ -66,8 +66,8 @@ Before importing this lab, you need to have the following:
     *   Use CLI commands like `show ip route`, `show ip ospf neighbor`  on routers and switches to verify protocol operation.
 
 5- ** Mikrotik Login ** 
-   * user 'admin 
-   * pass : ' ccna ' 
+   * user :  admin 
+   * pass :  ccna  
 
 
 
