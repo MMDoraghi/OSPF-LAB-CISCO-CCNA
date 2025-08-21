@@ -27,9 +27,9 @@ Before importing this lab, you need to have the following:
 
 ### Download Link 
 
-   * `[x86_64_crb_linux-adventerprisek9-ms.bin](https://download.netlabplus.com/images/Cisco/IOL/IOS%20XE%2017/)` 
-   * `[x86_64_crb_linux_l2-adventerprisek9-ms.bin](https://download.netlabplus.com/images/Cisco/IOL/IOS%20XE%2017/) ` 
-   * `[Mikrotik](https://download.mikrotik.com/routeros/7.19.3/chr-7.19.3.img.zip))` 
+   * ` [x86_64_crb_linux-adventerprisek9-ms.bin](https://download.netlabplus.com/images/Cisco/IOL/IOS%20XE%2017/) ` 
+   * ` [x86_64_crb_linux_l2-adventerprisek9-ms.bin](https://download.netlabplus.com/images/Cisco/IOL/IOS%20XE%2017/) ` 
+   * ` [Mikrotik](https://download.mikrotik.com/routeros/7.19.3/chr-7.19.3.img.zip) ` 
 
 
 ### Installation & Import
