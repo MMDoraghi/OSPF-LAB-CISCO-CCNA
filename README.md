@@ -2,7 +2,7 @@
 
 A comprehensive network design and simulation built and tested with PnetLab. This lab demonstrates [briefly describe the goal, e.g., multi-area OSPF routing, enterprise network design, or BGP peering].
 
-![Network Topology Diagram]() 
+![Network Topology Diagram](https://github.com/MMDoraghi/OSPF-LAB-CISCO-CCNA/blob/main/OSPF%20LAB.jpg) 
 
 ## 📋 Lab Overview
 
